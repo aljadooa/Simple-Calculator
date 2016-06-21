@@ -1,7 +1,7 @@
 Feel free to use this software however you like, no restrctions are applied, 
 and crediting the author is not required although it would be much appreciated.
 
-Implemnting the code into your project is an easy since the code it self is not very complicated to understand,
+Implemnting the code into your project is an easy task since the code it self is not very complicated to understand,
 if you know basic c++ programming.
 
 If you want to build upon the exsisting you're more than to do so, and if you want it to be included in the original code 
