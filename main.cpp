@@ -6,6 +6,7 @@
 using namespace std;
 
 // global variable
+// where numbers are stored for math operations
 float num1, num2;
 
 void calc()
